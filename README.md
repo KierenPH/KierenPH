@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm a 17 year old computer science student studying for an A-Level.
-
+I'm a 17 year old computer science student studying for an A-Level.  
 I currently code in Python and JS, hopefully this expands soon :D
 
 ### My Projects

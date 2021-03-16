@@ -8,9 +8,8 @@ I currently code in Python and JS, hopefully this expands soon :D
 #### Complete Projects:
 Alexa Fruit Machine - An alexa skill that operates like a slot machine with an online synced leaderboard accessable by the skill!
 #### WIP Projects:
-Ascella - An all in one discord bot coded in JS in a team, come check us out at https://ascella.dev(Site is WIP)
-
-Python Casino - A GUI casino written in Python using the pygame library.
+Ascella - An all in one discord bot coded in JS in a team, come check us out at https://ascella.dev (Site is WIP) \n
+Python Casino - A GUI casino written in Python using the pygame library
 
 Is there anything else you think I should work on? Let me know by email at hello@kieren.uk!
 

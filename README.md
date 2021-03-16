@@ -5,7 +5,7 @@ I currently code in Python and JS, hopefully this expands soon :D
 
 ### My Projects
 #### Complete Projects:
-Alexa Fruit Machine - An alexa skill that operates like a slot machine with an online synced leaderboard accessable by the skill! ![Click Here](https://github.com/KierenPH/Alexa-fruit-machine)
+Alexa Fruit Machine - An alexa skill that operates like a slot machine with an online synced leaderboard accessable by the skill! [Click Here](https://github.com/KierenPH/Alexa-fruit-machine)
 #### WIP Projects:
 Ascella - An all in one discord bot coded in JS in a team, come check us out at https://ascella.dev (Site is WIP)  
 Python Casino - A GUI casino written in Python using the pygame library

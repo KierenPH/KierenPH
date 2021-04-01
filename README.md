@@ -17,3 +17,4 @@ Is there anything else you think I should work on? Let me know by email at hello
 
 ![Kieren's github stats](https://github-readme-stats.vercel.app/api?username=KierenPH&theme=material-palenight&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KierenPH&theme=material-palenight &layout=compact)

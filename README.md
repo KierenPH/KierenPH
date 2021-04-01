@@ -15,5 +15,5 @@ Python Casino - A GUI casino written in Python using the pygame library
 Is there anything else you think I should work on? Let me know by email at hello@kieren.uk!
 
 
-![Kieren's github stats](https://github-readme-stats.vercel.app/api?username=KierenPH&show_icons=true)
+![Kieren's github stats](https://github-readme-stats.vercel.app/api?username=KierenPH&theme=material-palenight&show_icons=true)
 

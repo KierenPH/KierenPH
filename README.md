@@ -8,9 +8,10 @@ I currently code in:
 ### My Projects
 #### Complete Projects:  
 Alexa Fruit Machine - An alexa skill that operates like a slot machine with an online synced leaderboard accessable by the skill! [Click Here](https://github.com/KierenPH/Alexa-fruit-machine)
+Python Casino - A sample login GUI system that encrypts and uses your email for two factor authentication.
 #### WIP Projects:  
 Ascella - An all in one discord bot coded in JS in a team, come check us out at https://ascella.dev (Site is WIP)  
-Python Casino - A GUI casino written in Python using the pygame library
+Notify - A-Level NEA project that serves notifications to windows and mobile devices.
 
 Is there anything else you think I should work on? Let me know by email at hello@kieren.uk!
 
